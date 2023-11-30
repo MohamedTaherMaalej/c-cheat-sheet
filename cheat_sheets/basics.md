@@ -149,4 +149,3 @@ int result = add(3, 5);
 ```
 
 Remember to check the official C documentation for more details and advanced topics.
-```
